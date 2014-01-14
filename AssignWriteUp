@@ -1,0 +1,9 @@
+ASSIGNMENT ONE WRITE UP
+
+to compile --
+
+make in src directory
+
+run --
+
+java AndrewInsignares -countMethods AndrewInsignares.java
